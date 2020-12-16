@@ -1,4 +1,3 @@
-# addon-Fivem_Coords
 # HiDEV_Coords
 
 This addon allows you to ping and collect the coordinates of the players present on the server.
